@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(15, 21, 34);
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.heading{
+    font-family: Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+li,p{
+    font-size: 18px;
+}
